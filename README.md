@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/License-none-brightgreen)
 
 ## Description
-This is a nice project
+This is a professional readme app
 
 ## Table of Contents
 - [Installation](#installation)
@@ -18,17 +18,17 @@ This is a nice project
 npm i
 
 ## Usage
-node 
+node <file>
 
 ## Contributing
-enjoy it
+nothing and everything
 
 ## Tests
-have fun
+nothing in particular
 
 ## Questions
 If you have any questions, feel free to reach out:
-- GitHub: [dkpatzer](https://github.com/dkpatzer)
+- GitHub: [david@github](https://github.com/david@github)
 - Email: david@gmail.com
 
 ## License
