@@ -1,11 +1,8 @@
-const licenseBadge = require('license-badge');
-const licenseLink = require('license-link');
-
 // Function that returns a license badge based on the license passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license) {
-    return licenseBadge(license);
+    return `![License](https://img.shields.io/badge/License-${encodeURIComponent(license)}-brightgreen)`;
   }
   return '';
 }
@@ -14,7 +11,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license) {
-    return licenseLink(license);
+    return `[${license} License](https://opensource.org/licenses/${encodeURIComponent(license)})`;
   }
   return '';
 }
@@ -74,6 +71,7 @@ ${licenseSectionMarkdown}
 }
 
 module.exports = generateMarkdown;
+
 
 
 
