@@ -60,12 +60,17 @@ https://drive.google.com/file/d/1_KEQ7nPAPrRvM-PTRNJ2krO08GDyh2mb/view?pli=1
 
 
 ## Credits and Sources
-<!-- The Work Day Scheduler was developed by David Patzer as part of the NU coding boot camp. I obtained information from many sources to help in building this app. The sources are listed below.
+ The Professional README app was developed by David Patzer as part of the NU coding boot camp. I obtained information from many sources to help in building this app. The sources are listed below.
 
-. The Express.js site was invaluable in understanding Express.js and building functional routes between the front end and back end. https://expressjs.com/
-. The MDN Web Docs site was invaluable in understanding the GET, POST, and DELETE HTTP methods. https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
-. The Postman site was invaluable in testing my routes. https://www.postman.com/
-. The W3 Schools site was invaluable in understanding how to use eventhandlers to work with the keyboard in my app. https://www.w3schools.com/jsref/event_onkeypress.asp
-. The Heroku site was invaluable in understanding how to deploy an application to Heroku. https://devcenter.heroku.com/articles/getting-started-with-nodejs
-.The freecodecamp site The Express + Node.js Handbook – Learn the Express JavaScript Framework for Beginners [2022 Edition] was useful in understanding Express.js and building functional routes between the front end and back end. https://www.freecodecamp.org/news/the-express-handbook/
-. I also used ChatGPT to check my text/code. https://chat.openai.com/ -->
+ . The Node.js site was invaluable in understanding Node.js and building functional routes between the front end and back end. https://nodejs.org/en/
+. The npm site was invaluable in understanding how to use npm to install packages. https://www.npmjs.com/
+. The npm inquirer documentation was critical in my understanding  of how to use inquirer command line to provide prompts allowing a series of questions to ask the user in a CLI application in a structured matter. I learned about flow control and a better understanding of asynchronous programming. https://www.npmjs.com/package/inquirer/v/8.2.4
+. The npm fs documentation was critical in my understanding of how to use fs to write the README.md file. https://www.npmjs.com/package/fs
+. I used the MDN Package management basics guide to learn about package management. https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Package_management
+. I reviewed the freecodecamp page entitled module.exports – How to Export in Node.js and JavaScript to learn about module.exports. https://www.freecodecamp.org/news/node-module-exports-explained-with-javascript-export-function-examples/
+. I also used the JavaScript English Major page entitled Writing Content with Markdown https://the-javascripting-english-major.org/v1/12-markdown
+. I have used the Settng Up JavaScript Applications site from the CUNY many times including for this app https://babbage.cs.qc.cuny.edu/courses/cs903/setting_up_js_apps.xhtml
+. in order to take the video of the app in action I used the Screencastify site. https://learn.screencastify.com/hc/en-us/sections/4403859970199-User-Guide
+I also used the recommended Fullstack Blog Video Submission Guide https://coding-boot-camp.github.io/full-stack/computer-literacy/video-submission-guide
+...Finaly I used ChatGPT to check my text/code. https://chat.openai.com/ 
+
